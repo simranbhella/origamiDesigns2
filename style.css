@@ -10,7 +10,8 @@
 .origami{
     border-radius: 20px;
     background-color: white;
-
+    padding: 30px;
+    margin: 25px;
     width: 310px;
     font-family: fantasy;
 }
@@ -24,5 +25,5 @@
     color: darkblue;
 }
 body{
-    background-color: whitesmoke;
+    background-color: teal;
 }
